@@ -1,7 +1,16 @@
 # Neural-networks
+
+## About
+
 Realization of neural networks of Hopfield and Hamming.
 Python (pylab library).
 
-![alt text](https://pp.userapi.com/c638117/v638117080/47bbd/TAv2srJPHhs.jpg)
+## Install
 
-![alt text](https://pp.userapi.com/c638117/v638117080/47bb4/3qFvqKFLtB8.jpg)
+`pip install -r requirements.txt`
+
+`python "Hamming Neural Network/Hamming.py"`
+
+## Contributors
+
+Fomin Maxim <fominmax@inbox.ru>

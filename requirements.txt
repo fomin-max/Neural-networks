@@ -1,0 +1,6 @@
+# This file is used by pip to install required python packages
+# Usage: pip install -r requirements.txt
+
+numpy==1.14.2
+Pillow==4.2.1
+matplotlib==2.0.2
